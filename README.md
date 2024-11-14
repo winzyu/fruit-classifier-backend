@@ -6,8 +6,8 @@ Backend service for the FrescAI application that serves deep learning models for
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/AISC_fruits.git
-cd AISC_fruits
+git clone https://github.com/winzyu/AISC_fruits.git
+cd fruit-classifier-backend
 ```
 
 2. Create and activate a virtual environment:
